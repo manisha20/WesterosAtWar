@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WesterosAtWar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_data_loader">DataLoaderActivity</string>
+    <string name="title_activity_kings_details">KingsDetails</string>
+</resources>
